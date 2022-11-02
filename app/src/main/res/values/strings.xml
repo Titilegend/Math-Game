@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Math Game</string>
+    <string name="addition">Addition</string>
+    <string name="Subtraction">Subtraction</string>
+    <string name="Multiplication">Multiplication</string>
+    <string name="Division">Division</string>
+    <string name="Correct">Correct!</string>
+    <string name="Incorrect">Incorrect!</string>
+</resources>
